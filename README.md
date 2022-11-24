@@ -22,10 +22,32 @@
 ### 3. Android Development.
 ### 4. Graphic Designing
 
-## <p align = 'center'>Frameworks and Technologies used</p>
+## <p align = 'center'>Technologies used</p>
 ## Programming Languages
 #### 1. Python 3.9.7 - A programming language for implementation of Machine Learning techniques with supportive frameworks.
 #### 2. Flutter 3.0.5 - A programming language with a backend of Dart that focuses on development of Cross Platform Android Applications.
+
+## Environments:
+#### 1. Android Studio 2.1.15 : For Android Application Development.
+#### 2. Anaconda 3.0: An environment that comes with Python Supported Python packages. 
+#### 3. Jupyter Notebook: An Integrated Development Environment that runs Python scripts for Data Science and Web Scraping.
+#### 4. Visual Studio Code: For unit testing of the Pyhton Code.
+
+## <p align = 'center'>Libraries and Supportive Frameworks used: </p> 
+#### 1. Pandas: A library for data preprocessing and data preparation.
+#### 2. Numpy: A library for implementation of Mathematical Computation techniques on data.
+#### 3. Matplotlib: Data  Visualization framework written in Python.
+#### 4. Scikit-Learn: Implement ML algorithms and creating training and testing data.
+#### 5. Tensorflow: A high level array and tensor processing library for computation.
+#### 6. Keras: A library to create Deep Learning algorithms from scratch.
+#### 7. XGBoost: Supportive framework to implement Xtreme Boost algorithm.
+#### 8. Skimage: A library for Image Preprocessing operations.
+#### 9. Open CV Python: A high level Image Preprocessing Library.
+
+
+
+
+
 
 
 
