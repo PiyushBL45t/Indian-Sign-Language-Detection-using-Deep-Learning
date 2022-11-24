@@ -23,7 +23,7 @@
 ### 4. Graphic Designing
 
 ## <p align = 'center'>Technologies used</p>
-<p><img src = ""/></p>
+<p align = "center"><img src = "https://github.com/PiyushBL45t/ISL---Project-4th-year-SVIT/blob/main/Images/Logos%20of%20tech.png"/></p>
 ## Programming Languages
 #### 1. Python 3.9.7 - A programming language for implementation of Machine Learning techniques with supportive frameworks.
 #### 2. Flutter 3.0.5 - A programming language with a backend of Dart that focuses on development of Cross Platform Android Applications.
