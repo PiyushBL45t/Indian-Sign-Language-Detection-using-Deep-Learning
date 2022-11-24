@@ -1,5 +1,5 @@
 # ISL---Project-4th-year-SVIT
-<p align = "center"><img src = ""/></p>
+<p align = "center"><img src = "https://github.com/PiyushBL45t/ISL---Project-4th-year-SVIT/blob/main/Images/svit%20logo.png"/></p>
 
 ## A project on Indian Sign Language Detection using Machine Learning Approach
 
