@@ -4,10 +4,10 @@
 ## A project on Indian Sign Language Detection using Machine Learning Approach
 
 ### No of contributors: - 4
-#### 1. Piyush Bhujbal
+#### 1. <a href = "">Piyush Bhujbal</a>
 #### 2. Shreyas Waghchaure
-#### 3. Rutik Malave
-#### 4. Krushna Chavan
+#### 3. <a href = "https://github.com/Rutik7294">Rutik Malave</a>
+#### 4. <a href = "https://github.com/KrushnaChavan123">Krushna Chavan</a>
 
 # <p align = "center">A Brief Intro </p>
 ## <p>We are building a project that collaborates MAchine Learning and Android Development with some algorithms upon the topic <i> Indian Sign Language Detection</i> </p>
