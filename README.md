@@ -8,6 +8,7 @@
 #### 2. Shreyas Waghchaure
 #### 3. <a href = "https://github.com/Rutik7294">Rutik Malave</a>
 #### 4. <a href = "https://github.com/KrushnaChavan123">Krushna Chavan</a>
+#### <ins>View the published research paper on <b>International Journals of Scientific Research for Engineering and Management from the link given</ins>: <a href = "http://www.doi.org/10.55041/IJSREM16932" >Indian Sign Language Research Paper</a>
 
 # <p align = "center">A Brief Intro </p>
 ## <p>We are building a project that collaborates MAchine Learning and Android Development with some algorithms upon the topic <i> Indian Sign Language Detection</i> </p>
