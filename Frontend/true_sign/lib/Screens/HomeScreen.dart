@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:true_sign/Screens/Camrea_screen.dart';
 import 'package:true_sign/Screens/camreaScreen.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -41,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Center(
               child: GestureDetector(
                 onTap: () {
-                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => const cameraScreen()));
+                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => const CameraScreen()));
                 },
                 child: Container(
                   height: 115,
