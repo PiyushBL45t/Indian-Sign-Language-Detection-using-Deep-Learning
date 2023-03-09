@@ -5,7 +5,7 @@
 
 ### No of contributors: - 4
 #### 1. <a href = "">Piyush Bhujbal</a>
-#### 2. Shreyas Waghchaure
+#### 2. <a href = "https://github.com//Shreyas-Waghchaure">Shreyas Waghchaure</a>
 #### 3. <a href = "https://github.com/Rutik7294">Rutik Malave</a>
 #### 4. <a href = "https://github.com/KrushnaChavan123">Krushna Chavan</a>
 #### <ins>View the published research paper on <b>International Journals of Scientific Research for Engineering and Management from the link given</ins>: <a href = "http://www.doi.org/10.55041/IJSREM16932" >Indian Sign Language Research Paper</a>
