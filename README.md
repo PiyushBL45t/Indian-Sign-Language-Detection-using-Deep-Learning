@@ -4,7 +4,7 @@
 ## A project on Indian Sign Language Detection using Machine Learning Approach
 
 ### No of contributors: - 4
-#### 1. <a href = "">Piyush Bhujbal</a>
+#### 1. <a href = "https://github.com//PiyushBL45t">Piyush Bhujbal</a>
 #### 2. <a href = "https://github.com//Shreyas-Waghchaure">Shreyas Waghchaure</a>
 #### 3. <a href = "https://github.com/Rutik7294">Rutik Malave</a>
 #### 4. <a href = "https://github.com/KrushnaChavan123">Krushna Chavan</a>
