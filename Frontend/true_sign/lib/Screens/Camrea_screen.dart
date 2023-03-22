@@ -48,7 +48,7 @@ class _CameraScreenState extends State<CameraScreen> {
           imageMean: 127.5,
           imageStd: 127.5,
           rotation: 90,
-          numResults: 3,
+          numResults: 1,
           threshold: 0.1,
           asynch: true);
       pred!.forEach((element) {
@@ -79,24 +79,25 @@ class _CameraScreenState extends State<CameraScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-        body: Column(
-      children: [
-        Padding(
-          padding: EdgeInsets.all(20),
-          child: Container(
-            height: MediaQuery.of(context).size.height * 0.7,
-            width: MediaQuery.of(context).size.width,
-            child: !cameraController!.value.isInitialized
-                ? Container()
-                : AspectRatio(
-                    aspectRatio: cameraController!.value.aspectRatio,
-                    child: CameraPreview(cameraController!),
-                  ),
+    return SafeArea(
+      child: Scaffold(
+          body: Column(
+           children: [
+               Padding(padding: EdgeInsets.all(20),
+                child: Container(
+                    height: MediaQuery.of(context).size.height * 0.7,
+                    width: MediaQuery.of(context).size.width,
+                     child: !cameraController!.value.isInitialized
+                  ? Container()
+                  : AspectRatio(
+                      aspectRatio: cameraController!.value.aspectRatio,
+                      child: CameraPreview(cameraController!),
+                    ),
+            ),
           ),
-        ),
-        Text(output,style: GoogleFonts.poppins(fontSize: 25,color: Colors.black),)
-      ],
-    ));
+           Text(output,style: GoogleFonts.poppins(fontSize: 25,color: Colors.black),)
+        ],
+      )),
+    );
   }
 }

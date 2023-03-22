@@ -1,6 +1,8 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:true_sign/Screens/spalshScreen.dart';
+
+
 List<CameraDescription>? cameras;
 
 Future<void> main() async {
@@ -15,7 +17,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       home:Homepage(),
       debugShowCheckedModeBanner: false,
     );

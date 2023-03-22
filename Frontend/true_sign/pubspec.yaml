@@ -39,9 +39,10 @@ dependencies:
   google_fonts: ^3.0.1
   shared_preferences: ^2.0.15
   image_picker: ^0.8.6
-  camera: ^0.10.0+4
+  camera: ^0.10.3+2
   tflite: ^1.0.4
-  tflite_flutter_helper:
+  http: ^0.13.5
+  youtube_player_flutter: ^8.1.2
 
 
 
