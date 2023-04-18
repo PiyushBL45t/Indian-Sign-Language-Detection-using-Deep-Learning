@@ -18,13 +18,14 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    Future.delayed(const Duration(seconds: 3)).then((value){
-      // Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context)=> const HomeScreen()));
+    Future.delayed(const Duration(seconds: 1)).then((value){
+      // Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context)=> const WelcomeScreen()));
     });
   }
   @override
   Widget build(BuildContext context) {
     return AnimatedSplashScreen(
+      duration: 1 ,
       splashIconSize: 230,
       nextScreen: const WelcomeScreen(),
       backgroundColor: Color(0xFF034582),
