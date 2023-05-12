@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return AnimatedSplashScreen(
-      duration: 1 ,
+      duration: 3 ,
       splashIconSize: 230,
       nextScreen: const WelcomeScreen(),
       backgroundColor: Color(0xFF034582),

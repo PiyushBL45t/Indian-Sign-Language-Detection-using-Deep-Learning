@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:true_sign/Screens/Camrea_screen.dart';
 import 'package:true_sign/Screens/LearnScreen.dart';
 import 'package:true_sign/Screens/camreaScreen.dart';
+import 'package:true_sign/Screens/optionScreen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -43,7 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Center(
               child: GestureDetector(
                 onTap: () {
-                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => const CameraScreen()));
+                  Navigator.of(context).push(MaterialPageRoute(builder: (context) => const optionScreen()));
                 },
                 child: Container(
                   height: 115,

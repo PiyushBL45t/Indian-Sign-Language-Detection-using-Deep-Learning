@@ -49,9 +49,9 @@ class _CameraScreenState extends State<CameraScreen> {
           imageStd: 127.5,
           rotation: 90,
           numResults: 1,
-          threshold: 0.1,
+          threshold: 0.4,
           asynch: true);
-      pred!.forEach((element) {
+           pred!.forEach((element) {
         setState(() {
           output = element['label'];
         });
